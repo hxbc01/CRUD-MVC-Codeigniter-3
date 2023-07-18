@@ -36,7 +36,6 @@
                             <option selected>Silahkan pilih jenis barang</option>
                             <option value="makanan">Makanan</option>
                             <option value="minuman">minuman</option>
-
                         </select>
                         <div>
 
